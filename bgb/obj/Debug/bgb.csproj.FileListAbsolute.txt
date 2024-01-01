@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\bgb\bgb\obj\Debug\bgb.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\bgb\bgb\bin\Debug\bgb.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\bgb\bgb\bin\Debug\bgb.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\bgb\bgb\bin\Debug\bgb.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\bgb\bgb\obj\Debug\bgb.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\bgb\bgb\obj\Debug\bgb.pdb
